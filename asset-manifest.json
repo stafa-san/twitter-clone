@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/stafa-san.github.io/twitter-clone/static/css/main.1e798e56.chunk.css",
-    "main.js": "/stafa-san.github.io/twitter-clone/static/js/main.df0a209a.chunk.js",
-    "main.js.map": "/stafa-san.github.io/twitter-clone/static/js/main.df0a209a.chunk.js.map",
+    "main.css": "/stafa-san.github.io/twitter-clone/static/css/main.87fb19ff.chunk.css",
+    "main.js": "/stafa-san.github.io/twitter-clone/static/js/main.4a3285f4.chunk.js",
+    "main.js.map": "/stafa-san.github.io/twitter-clone/static/js/main.4a3285f4.chunk.js.map",
     "runtime-main.js": "/stafa-san.github.io/twitter-clone/static/js/runtime-main.52ab6027.js",
     "runtime-main.js.map": "/stafa-san.github.io/twitter-clone/static/js/runtime-main.52ab6027.js.map",
-    "static/js/2.2bbdd791.chunk.js": "/stafa-san.github.io/twitter-clone/static/js/2.2bbdd791.chunk.js",
-    "static/js/2.2bbdd791.chunk.js.map": "/stafa-san.github.io/twitter-clone/static/js/2.2bbdd791.chunk.js.map",
+    "static/js/2.67843a8d.chunk.js": "/stafa-san.github.io/twitter-clone/static/js/2.67843a8d.chunk.js",
+    "static/js/2.67843a8d.chunk.js.map": "/stafa-san.github.io/twitter-clone/static/js/2.67843a8d.chunk.js.map",
     "index.html": "/stafa-san.github.io/twitter-clone/index.html",
-    "static/css/main.1e798e56.chunk.css.map": "/stafa-san.github.io/twitter-clone/static/css/main.1e798e56.chunk.css.map",
-    "static/js/2.2bbdd791.chunk.js.LICENSE.txt": "/stafa-san.github.io/twitter-clone/static/js/2.2bbdd791.chunk.js.LICENSE.txt",
+    "static/css/main.87fb19ff.chunk.css.map": "/stafa-san.github.io/twitter-clone/static/css/main.87fb19ff.chunk.css.map",
+    "static/js/2.67843a8d.chunk.js.LICENSE.txt": "/stafa-san.github.io/twitter-clone/static/js/2.67843a8d.chunk.js.LICENSE.txt",
     "static/media/verified.a27dc66e.svg": "/stafa-san.github.io/twitter-clone/static/media/verified.a27dc66e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.52ab6027.js",
-    "static/js/2.2bbdd791.chunk.js",
-    "static/css/main.1e798e56.chunk.css",
-    "static/js/main.df0a209a.chunk.js"
+    "static/js/2.67843a8d.chunk.js",
+    "static/css/main.87fb19ff.chunk.css",
+    "static/js/main.4a3285f4.chunk.js"
   ]
 }
